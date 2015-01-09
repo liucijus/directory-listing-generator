@@ -4,7 +4,7 @@ import os
 import sys
 
 if not len(sys.argv) == 2:
-    print("Usage: generate.py <folder>")
+    print("Usage: generate_directory_listing.py <folder>")
     sys.exit(1)
 
 
